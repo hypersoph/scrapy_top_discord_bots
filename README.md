@@ -1,6 +1,6 @@
 # Project: Top.gg, Custom ItemLoader
 
-In this project we are going to scrape the top bots on Top.gg to create a dataset of all bots listed on the site.
+In this project we are going to web scrape the top bots on Top.gg to create a dataset of all bots listed on the site.
 
 Example
 
